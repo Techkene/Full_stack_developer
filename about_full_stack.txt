@@ -1,0 +1,17 @@
+A Full Stack Developer is someone who works with the Back End — or server side — of the application as well as the Front End, or client side. Full Stack Developers have to have some skills in a wide variety of coding niches, from databases to graphic design in order to do their job well. They are something of a swing, ready to assist wherever needed in the process.
+Full stack developers are responsible for building both the front end and the back end of web applications, they are skilled at the planning, design, development, deployment and testing of web applications using an array of languages and tools. 
+Tools that full stack developers use.
+1.computer
+2.google
+3.text editor (vs code)
+4.stack overflow
+languages used by full stack developers.
+1. HTML
+2. CSS
+3. Javascripy
+4. Java
+5. python
+6. Ruby
+7. PHP
+
+
